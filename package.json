@@ -16,7 +16,9 @@
     "react-hook-form": "^7.52.1",
     "react-loading": "^2.0.3",
     "react-router-dom": "^6.25.1",
-    "zustand": "^4.5.4"
+    "zustand": "^4.5.4",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
